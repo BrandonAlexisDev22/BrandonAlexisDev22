@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Brandon Alexis Quintero Alvarez</h1>
 <h3 align="center">I'm a passionate junior fullstack developer from Colombia</h3>
-<img align="center" src="https://i.ibb.co/pjcDsysX/Dark-Navy-Blue-Game-Youtube-Thumbnail.png" alt="Dark-Navy-Blue-Game-Youtube-Thumbnail" border="0" /></a>
+<div align="center">
+  <img src="https://i.ibb.co/pjcDsysX/Dark-Navy-Blue-Game-Youtube-Thumbnail.png" alt="Dark-Navy-Blue-Game-Youtube-Thumbnail">
+</div>
 - 🔭 I’m currently working on [Etherium-Game](https://etherium-game.vercel.app/)
 
 - 🌱 I’m currently learning **Node.js Express.js**
