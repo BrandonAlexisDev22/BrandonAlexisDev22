@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Brandon Alexis Quintero Alvarez</h1>
-<h3 align="center">I'm a passionate junior fullstack developer from Colombia</h3>
+<h1 align="center">Hi 👋, <span style="color: purple;">I'm Brandon Alexis Quintero Alvarez</span></h1>
+<h3 align="center" style="color: purple;">I'm a passionate junior fullstack developer from Colombia</h3>
 <div align="center">
   <img src="https://i.ibb.co/pjcDsysX/Dark-Navy-Blue-Game-Youtube-Thumbnail.png" alt="Dark-Navy-Blue-Game-Youtube-Thumbnail">
 </div>
