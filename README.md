@@ -32,7 +32,7 @@ I enjoy working across frontend and backend development, transforming ideas into
 
 Currently, I'm focused on strengthening my knowledge of **software architecture, REST APIs, databases, and modern web technologies**.
 
-- 🔭 Working on **ParkU** and **Etherium Game**.
+- 🔭 Working on **DevJob** and **Etherium Game**.
 - 🌱 Improving my skills in **TypeScript, React, Node.js, Express.js, and Django**.
 - 🏗️ Interested in **Full Stack Development, Software Architecture, and API Design**.
 - 🎯 Goal: Grow professionally as a software developer and contribute to real-world projects.
