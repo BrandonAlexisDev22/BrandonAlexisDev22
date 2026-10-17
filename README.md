@@ -1,139 +1,211 @@
-<h1 align="center">👋 Hi, I'm Brandon Alexis Quintero Alvarez</h1>
+<div align="center">
 
-<h3 align="center">💻 Junior Full Stack Developer | Colombia 🇨🇴</h3>
-<p align="center">
-  <a href="https://github.com/BrandonAlexisDev22">
-    <img src="https://img.shields.io/github/followers/BrandonAlexisDev22?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/BrandonAlexisDev22">
-    <img src="https://img.shields.io/github/stars/BrandonAlexisDev22?label=Stars&style=for-the-badge" alt="GitHub Stars"/>
-  </a>
-  <a href="https://www.linkedin.com/in/brandonalexisdev">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
+# 👋 Hi, I'm Brandon Alexis Quintero Alvarez
 
----
+### 💻 Junior Full Stack Developer | 🇨🇴 Colombia
 
-## 🚀 About Me
+**Building meaningful digital experiences through code.**
 
-I'm a **Junior Full Stack Developer from Colombia** passionate about software development, web applications, and learning new technologies.
+Passionate about web development, software engineering, and creating scalable solutions.
 
-Currently, I'm focused on building projects that help me strengthen my skills in **JavaScript, TypeScript, Node.js, backend development, databases, and modern frontend technologies**.
+<br/>
 
-* 🔭 Currently working on **[Etherium-Game](https://etherium-game.vercel.app/)**
-* 🌱 Currently learning **Node.js, Express.js & TypeScript**
-* 💻 Interested in **Full Stack Web Development**
-* 🤝 Open to collaborating on **Etherium-Game** and other interesting projects
-* 💬 Ask me about **JavaScript, TypeScript, Node.js or web development**
-* 📚 Always learning and improving my programming skills
-* ⚡ Fun fact: I am very funny 😄
+<a href="https://github.com/BrandonAlexisDev22">
+  <img src="https://img.shields.io/github/followers/BrandonAlexisDev22?label=Followers&style=for-the-badge&color=6366F1&logo=github" alt="GitHub Followers"/>
+</a>
+<a href="https://www.linkedin.com/in/brandonalexisdev">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:brandonalexisdev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 👨‍💻 About Me
 
-### Languages
+I'm a **Junior Full Stack Developer from Colombia**, passionate about building web applications, solving problems, and continuously improving my technical skills.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-</p>
+I enjoy working across frontend and backend development, transforming ideas into functional applications, and collaborating with other developers.
 
-### Backend
+Currently, I'm focused on strengthening my knowledge of **software architecture, REST APIs, databases, and modern web technologies**.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
-</p>
-
-### Frontend
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
-</p>
-
-### Databases
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/>
-</p>
-
-### Tools & Environment
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-</p>
+- 🔭 Working on **ParkU** and **Etherium Game**.
+- 🌱 Improving my skills in **TypeScript, React, Node.js, Express.js, and Django**.
+- 🏗️ Interested in **Full Stack Development, Software Architecture, and API Design**.
+- 🎯 Goal: Grow professionally as a software developer and contribute to real-world projects.
+- 🤝 Open to **collaborations, internships, and junior developer opportunities**.
+- 💡 I believe continuous learning is the key to becoming a better developer.
+- ⚡ Fun fact: I love programming and making people laugh! 😄
 
 ---
 
-## 🎮 Featured Project
+## 🛠️ Tech Stack
 
-### ⚔️ Etherium Game
+<div align="center">
 
-**Etherium Game** is a web-based game project developed as part of a collaborative development experience.
+### 💻 Programming Languages
 
-The project includes game logic, characters, abilities, status effects, and an interactive frontend.
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css&theme=dark" alt="Programming Languages"/>
 
-<p align="center">
-  <a href="https://etherium-game.vercel.app/">
-    <img src="https://img.shields.io/badge/🎮%20Play%20Etherium%20Game-Visit%20Project-6C63FF?style=for-the-badge" alt="Play Etherium Game"/>
-  </a>
-</p>
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,vite&theme=dark" alt="Frontend Technologies"/>
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" alt="Backend Technologies"/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="MySQL and PostgreSQL"/>
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="Microsoft SQL Server" title="Microsoft SQL Server"/>
+
+### 🔧 Tools & Development Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" alt="Development Tools"/>
+
+### 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Flutter and Dart"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🅿️ ParkU — Parking Management System
+
+**ParkU** is a parking management system designed to improve vehicle access control, parking administration, and operational monitoring.
+
+The project focuses on providing a centralized platform for managing vehicles, users, parking spaces, reservations, and incidents.
+
+**Key Features:**
+
+- 🚗 Vehicle registration and management.
+- 👥 Role-based access for different user types.
+- 🅿️ Parking space administration.
+- 📊 Parking occupancy monitoring.
+- 📋 Incident and reservation management.
+- 📱 Mobile application development.
 
 **Technologies:**
 
-`JavaScript` `TypeScript` `Node.js` `HTML` `CSS`
+`React` `TypeScript` `REST APIs` `Flutter` `Dart`
+
+<div align="center">
+
+<a href="https://github.com/cano0102/ParkU">
+  <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View ParkU"/>
+</a>
+
+</div>
+
+<br/>
+
+### ⚔️ Etherium Game — Web-Based Game
+
+**Etherium Game** is a collaborative web-based game project focused on implementing interactive gameplay mechanics and structured application logic.
+
+The project combines programming concepts, frontend development, and game mechanics to create an engaging experience.
+
+**Key Features:**
+
+- 🎮 Interactive gameplay.
+- ⚔️ Character abilities and combat mechanics.
+- 🧠 Game logic and status effects.
+- 🖥️ Interactive user interface.
+- 🤝 Collaborative software development.
+
+**Technologies:**
+
+`JavaScript` `TypeScript` `HTML5` `CSS3`
+
+<div align="center">
+
+<a href="https://etherium-game.vercel.app/">
+  <img src="https://img.shields.io/badge/Play_Game-Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Play Etherium Game"/>
+</a>
+<a href="https://github.com/BrandonAlexisDev22/Etherium-Game">
+  <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Etherium Game Repository"/>
+</a>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=BrandonAlexisDev22&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Brandon Alexis GitHub Stats"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonAlexisDev22&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=BrandonAlexisDev22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 
----
+<br/>
 
-## 🐍 Contribution Snake
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonAlexisDev22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BrandonAlexisDev22/BrandonAlexisDev22/output/github-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=BrandonAlexisDev22&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Activity
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/brandonalexisdev">
-    <img src="https://img.shields.io/badge/LinkedIn-Brandon%20Alexis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:brandonalexisdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/BrandonAlexisDev22/BrandonAlexisDev22/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>💡 Building, learning and improving one line of code at a time.</i>
-</p>
+## 🎯 Professional Goals
+
+I'm continuously working toward becoming a stronger software developer.
+
+My current priorities include:
+
+- 🚀 Building and improving real-world software projects.
+- 🧠 Strengthening my knowledge of backend architecture and API development.
+- 💻 Writing clean, maintainable, and scalable code.
+- 🤝 Gaining professional experience through teamwork and collaboration.
+- 📚 Learning new technologies and software engineering best practices.
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+I'm always interested in connecting with other developers, collaborating on projects, and exploring new opportunities.
+
+**Feel free to reach out!**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/brandonalexisdev">
+  <img src="https://img.shields.io/badge/LinkedIn-Brandon_Alexis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:brandonalexisdev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/BrandonAlexisDev22">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+**💡 "Building, learning, and improving one line of code at a time."**
+
+</div>
