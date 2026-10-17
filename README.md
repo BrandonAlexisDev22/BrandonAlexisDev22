@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hi, I'm Brandon Alexis Quintero Alvarez</h1>
 
 <h3 align="center">💻 Junior Full Stack Developer | Colombia 🇨🇴</h3>
-
-<p align="center">
-  <img src="https://i.ibb.co/pjcDsysX/Dark-Navy-Blue-Game-Youtube-Thumbnail.png" alt="Brandon Alexis Banner" />
-</p>
-
 <p align="center">
   <a href="https://github.com/BrandonAlexisDev22">
     <img src="https://img.shields.io/github/followers/BrandonAlexisDev22?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
